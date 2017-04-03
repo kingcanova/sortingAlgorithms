@@ -7,6 +7,6 @@ all he/she needs to know. The comments should usually include at least:
 PROJECT TITLE: Sorting Algorithm Test
 PURPOSE OF PROJECT: To time and test different sorting algorithms using variously arranged arrays.
 VERSION or DATE: 3/20/17
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT: Read Code, Open Sorter.java and run the main method.
 AUTHORS: Tristan Canova and Thomas Walsh
 USER INSTRUCTIONS:
